@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pranav and I'm a 3rd Year Engineering Student from Nitte Meenakshi Institure of Technology.</h2>
+<h2 align="left">Hi 👋! My name is Pranav and I'm a 3rd Year Engineering Student from Nitte Meenakshi Institute of Technology.</h2>
 
 ###
 
